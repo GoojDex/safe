@@ -794,15 +794,15 @@
                                         height: 25,
                                         width: 25
                                     },
-                                    url: "https://facebook.com/cssbuttongenerator"
+                                    url: "#"
                                 }), "\xa0\xa0\xa0Learn how to\xa0", (0, r.jsx)("a", {
-                                    href: "https://cssbuttongenerator.com",
-                                    children: "make css buttons"
+                                    href: "https://goojdextools.blogspot.com",
+                                    children: "Premium CSS Buttons"
                                 }), "\xa0with this\xa0", (0, r.jsx)("a", {
-                                    href: "https://www.codecademy.com/learn/learn-css",
+                                    href: "https://devchandel-goojdex.blogspot.com",
                                     target: "_blank",
                                     rel: "noreferrer",
-                                    children: "free CSS coding course"
+                                    children: "free Web,Tools,CSS coding course"
                                 }), "!"]
                             })
                         })]
