@@ -803,16 +803,6 @@
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: "free Web,Tools,CSS coding course"
-                                }),
-                                (0, r.jsx)("br", {}), (0, r.jsx)("br", {}), (0, r.jsx)("br", {}), (0, r.jsx)("p", {
-                            className: "text-secondary mb-4",
-                            children: (0, r.jsxs)("medium", {
-                                children: [(0, r.jsx)(E.QZ, {
-                                }), "\xa0\xa0\xa0Powered By\xa0", (0, r.jsx)("a", {
-                                    href: "https://devchandel-goojdex.blogspot.com",
-									target: "_blank",
-                                    rel: "noreferrer",
-                                    children: "Dev Chandel "
                                 }), "!"]
                             })
                         })]
