@@ -331,7 +331,7 @@
                                     content: "css button generator, css button maker, css button creator, cssbuttongenerator"
                                 }), (0, c.jsx)("meta", {
                                     name: "description",
-                                    content: "CSS Button Generator is a free online tool to create CSS buttons without code. Use our premade templates to easily generate CSS buttons"
+                                    content: "Premium CSS Button Generator is a free online tool to create Premium CSS buttons without code. Use our premade templates to easily generate CSS buttons"
                                 }), (0, c.jsx)("meta", {
                                     name: "robots",
                                     content: "index, follow"
