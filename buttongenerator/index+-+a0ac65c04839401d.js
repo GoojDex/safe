@@ -803,7 +803,7 @@
                                     target: "_blank",
                                     rel: "dofollow",
                                     children: "Dev Chandel"
-                                }), "All Right Reserved."]
+                                }), "  All Right Reserved."]
                             })
                         })]
                     })
