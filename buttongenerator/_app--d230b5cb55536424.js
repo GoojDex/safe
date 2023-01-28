@@ -342,9 +342,9 @@
                                     charSet: "utf-8"
                                 }), (0, c.jsx)("link", {
                                     rel: "canonical",
-                                    href: "https://cssbuttongenerator.com"
+                                    href: "https://goojdextools.blogspot.com"
                                 }), (0, c.jsx)("title", {
-                                    children: "CSS Button Generator | create CSS buttons without code"
+                                    children: "Premium CSS Button Generator | create CSS buttons without code"
                                 }), (0, c.jsx)("link", {
                                     rel: "apple-touch-icon",
                                     sizes: "180x180",
