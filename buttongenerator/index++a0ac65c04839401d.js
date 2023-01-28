@@ -795,14 +795,14 @@
                                         width: 25
                                     },
                                     url: "https://facebook.com/#"
-                                }), "\xa0\xa0\xa0Learn how to\xa0", (0, r.jsx)("a", {
+                                }), "\xa0\xa0\xa0Copyright &#169; 2021- <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>\xa0", (0, r.jsx)("a", {
                                     href: "https://goojdextools.blogspot.com",
                                     children: "Premium CSS Buttons"
-                                }), "\xa0with this\xa0", (0, r.jsx)("a", {
+                                }), "\xa0Powered By\xa0", (0, r.jsx)("a", {
                                     href: "https://devchandel-goojdex.blogspot.com",
                                     target: "_blank",
                                     rel: "noreferrer",
-                                    children: "free Web,Tools,CSS coding course"
+                                    children: "Dev Chandel"
                                 }), "!"]
                             })
                         })]
