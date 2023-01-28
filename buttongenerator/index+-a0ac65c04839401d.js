@@ -795,15 +795,15 @@
                                         width: 25
                                     },
                                     url: "https://facebook.com/#"
-                                }), "\xa0\xa0\xa0Copyright &#169; 2021- <script type='text/javascript'>var creditsyear = new Date();document.write(creditsyear.getFullYear());</script>\xa0", (0, r.jsx)("a", {
+                                }), "\xa0\xa0\xa0Copyright\xa0", (0, r.jsx)("a", {
                                     href: "https://goojdextools.blogspot.com",
                                     children: "Premium CSS Buttons"
                                 }), "\xa0Powered By\xa0", (0, r.jsx)("a", {
                                     href: "https://devchandel-goojdex.blogspot.com",
                                     target: "_blank",
-                                    rel: "noreferrer",
+                                    rel: "dofollow",
                                     children: "Dev Chandel"
-                                }), "!"]
+                                }), "All Right Reserved."]
                             })
                         })]
                     })
