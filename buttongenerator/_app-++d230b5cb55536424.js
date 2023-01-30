@@ -328,7 +328,7 @@
                                     content: "width=device-width, initial-scale=1, shrink-to-fit=no"
                                 }), (0, c.jsx)("meta", {
                                     name: "keywords",
-                                    content: "css button generator, css button maker, css button creator, cssbuttongenerator"
+                                    content: "css button generator, css button maker, css button creator, cssbuttongenerator, Premium CSS Button Generator"
                                 }), (0, c.jsx)("meta", {
                                     name: "description",
                                     content: "Premium CSS Button Generator is a free online tool to create Premium CSS buttons without code. Use our premade templates to easily generate CSS buttons"
@@ -342,9 +342,9 @@
                                     charSet: "utf-8"
                                 }), (0, c.jsx)("link", {
                                     rel: "canonical",
-                                    href: "https://goojdextools.blogspot.com"
+                                    href: "https://premiumcssbuttongenerator.blogspot.com/"
                                 }), (0, c.jsx)("title", {
-                                    children: "Premium CSS Button Generator | create CSS buttons without code"
+                                    children: "Premium CSS Button Generator | create Premium CSS buttons without code"
                                 }), (0, c.jsx)("link", {
                                     rel: "apple-touch-icon",
                                     sizes: "180x180",
