@@ -794,10 +794,10 @@
                                         height: 25,
                                         width: 25
                                     },
-                                    url: "https://facebook.com/#"
-                                }), "\xa0\xa0\xa0Copyright\xa0", (0, r.jsx)("a", {
-                                    href: "https://goojdextools.blogspot.com",
-                                    children: "Premium CSS Buttons"
+                                    url: "https://facebook.com/GoojDex"
+                                }), "\xa0\xa0\xa0Copyright &copy;\xa0", (0, r.jsx)("a", {
+                                    href: "https://premiumcssbuttongenerator.blogspot.com/",
+                                    children: "Premium CSS Buttons Generator"
                                 }), "\xa0Powered By\xa0", (0, r.jsx)("a", {
                                     href: "https://devchandel-goojdex.blogspot.com",
                                     target: "_blank",
