@@ -1,0 +1,53 @@
+{
+  "name": "SpeedoMeter Onlilne",
+  "short_name": "SpeedoMeter Onlilne",
+  "description": " Install And Track your movement online Any Time Any Where ",
+  "lang": "en-US",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "start_url": "/?utm_source=homescreen",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxGtBGKfP4_mpOzC2TIV_llzfg0zUZlpmRfsjQ26NCEKiXFP6FEg6wH8y1IuNNJY8eB6EWvYrQTcCM9bYNWKyC2gVz07Dxm4rdrduDvIdKS4cEGe_t-zDXrjrHcUKynggRcik1vJesp5IscRTF1Q8P0BzaH8XNJNS5yHTCSgko4ugx0-2XqXkzWom46Q/s1600/32.png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6G3dW9FSO1u5OjWoB7A5cMCnEh_gug5CJ6SXY32PJF5iZcIQhKln0fYLbuy2_ISrQcrz7mxKTEBqWw-RmA6IdWkWPJJLhmujPiWdM9EDHrqx6znoo4IK_mFCYY-BxBG_T1JSqeTBM_3tT-sh-MG0r9CyEpFL3n8yAlRFIwshkS4Qnlkz1WTvtwHNyQw/s1600/72.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWUuyN9JT5DEdrg0KZYnu_UKqE6sRxvmFQKbn_tByaLYJ87agDDSMVqRICjDtLuE1uGLn9k5A5LGyvPgZ1gH3zYUHiAZ3375WwBcZAhodfNhNZUSvgcgyz1Ye1M__8mSYsTxwF3QEN5bXjIC5RSn3250v3P7f-3dzQBMYCMy8ATHPEoTejsuC8XSFlAg/s1600/96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzURHfEub2UPaZT6cI8ECsELQXkj-rtgJuIHwZb9OTn_cDsb1qpRivPvhg8RcsVfPHzG-gi5t7VAaX6yo5ci2LjhFtNprSGFrSP5OdJFPM-J8dCHYWfqWYQk2LyahMfkdynfrxP2KcinzQIl8-8Ksix_KLYxazHyPvSWjormVmF0Knwfx6U_Xwqvmnhw/s1600/128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwtOS9AMNVruGzebDJSGTcGOVBQ6jdbsSemzXec-fE_ZhVAYjDWQETIqYWQdayENWgW51wWynKVOd9om4_YD5PAVGDFsaeV2WDJhUXh7-rd-kKN-NqLYbALTP4V3Ofpk0QgaxciPj68LBZzkDaSv5QhT-Z8AEDs7Ut0fZasssEw1xW6gjH1CLGYg6tpQ/s1600/144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxlF3jTq9AbZ99G-TQOH9Q-clgNVSosmwaVBBYm0aieCn_ZZd-LF2qHwH9YZC0vIrB08Sw8QJ0swACSYeKC02HSs1nDIJLliXgbJUbQrx1ieGDOpvmOFOfrGiTepCRmsZJX6cy-wCBqNDwacBt1YIaqh-OQ5IJxASHuQ-CVk7bzvj35LObobw6O_fieg/s1600/152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcFrVl5RKbNspQsGQruslP8B-YMmgVZ-489-x2DoN0IQD9i-INzRb2eSXzoLS232Zfjp8kcvPRqOcJHXxJBp8YqXD-rqeFdjuSQ8Id1ec5rOQUjSkv6QTO7_NGkWKdHw7HZ0yTSoy0zxWunQEYuG41Z7n_wQAqgSADSQm1jyiUfglMImyej18TTNA6Kw/s1600/192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxo6F_pNlSOV2C1cNrsP2CKcmnv_e5NYEhNMuHbSKX7mGkmD1OJiO6IZ1FjWN0JZBtv4pXjf2Of1G6kbluJsRyUVU9fk5dWmUqJPvUYWKK-5mTapulpN086l1Ok1to1dDka2nSy-uMYR290MiZtmfFSdHftCf5ZPb2cTitFA1Nof47t3_y5x3smWjzOA/s320/384.png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR6DQmHcf8hLjpNBWT4OCD3EdTBBwswaTq9n5cn5ehhqzqU7wVb1sIu5PX56lhtZLpZT0Atjzw7oXNMN7zjPVq1MPYbcKGz7pCNRPqt6Bktc4TNFfaAPENRKw1QGkSZLmVnvBpEMmykX_pYg9eTXx1N3NQW-uAQQVmMeN2jSV4qMaISfL767ePtXG2yg/s320/512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe7mW1tXnfE7Ai2Z06Vu6FaNj8v3QhKEY3QTzbDv_jHjq9bDzMvf66uvdHJ-ReCu8QgpMc9VoozmKGdbVpSTdeJGuhCEtU3HWzDZodUr3wpxQHZztRIiT04iDZ5vWkUSmhW73K5S6rA2A5_8pF8S25zqedSRoS1co2RQZ7lqYFqJTYJqKto-08jNcskQ/s320/1024.png",
+      "sizes": "1024x1024"
+    }
+  ]
+}
